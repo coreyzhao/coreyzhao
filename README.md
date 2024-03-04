@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Corey</h1>
-<h3 align="center">A passionate Computer Science at McGill</h3>
+<h3 align="center">A Computer Science at McGill</h3>
 
 - 🌱 I’m currently learning **Springboot with Java**
 
