@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available here and on my e-portfolio<br>🎲 Reach me via email: coreyzh2004@gmail.com</p>
+<p align="left">👨‍💻 All of my projects are available here and on my e-portfolio<br>🎲 Reach me via email: coreyzh.707@gmail.com</p>
 
 
 ###
