@@ -1,1 +1,1 @@
-<h1 align="left">CS @ McGill</p>
+<p align="left">CS @ McGill & prev @ Morgan Stanley</p>
