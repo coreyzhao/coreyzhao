@@ -1,1 +1,1 @@
-<p align="left">cs @ mcgill & prev @ morgan stanley</p>
+<p align="left">cs @ mcgill</p>
